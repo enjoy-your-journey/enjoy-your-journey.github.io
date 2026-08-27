@@ -1,3 +1,4 @@
 # enjoy-your-journey.github.io
 EYJ's Porfolio
-<small>enjoy-your-journey.mail@proton.me</small>
+<br>
+Mail : <small>enjoy-your-journey.mail@proton.me</small>
